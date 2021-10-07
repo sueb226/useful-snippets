@@ -1,0 +1,10 @@
+<figure class="wp-block-table is-style-stripes">
+<table>
+<thead>
+<tr>
+<th scope="col">Plugin</th>
+<th scope="col">Description</th>
+</tr>
+</thead>
+<tbody>
+[plugins_list cache=60 format="<tr><td>{{LinkedTitle}} <br/> by: {{LinkedAuthor}}</td> <td>{{Description}}</td></tr>"]</tbody><tfoot><tr><th scope="col">Plugin</th><th scope="col">Description</th>	</tr></tfoot></table></figure>
