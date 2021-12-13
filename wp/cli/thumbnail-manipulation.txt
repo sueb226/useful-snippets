@@ -1,0 +1,3 @@
+https://developer.wordpress.org/cli/commands/media/regenerate/
+# Re-generate only the thumbnails of "large" image size for all images.
+$ wp media regenerate --image_size=large
