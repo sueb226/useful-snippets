@@ -1,6 +1,6 @@
 # Misc CLI commands 
 
-## Remove filed in directory
+## Remove files in directory
 > rm file-name-*
 
 ## when rm file-name-* times out
