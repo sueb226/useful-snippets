@@ -3,6 +3,6 @@
 - [wp core update](https://developer.wordpress.org/cli/commands/core/update/)
 > wp core update --version=x.x --force
 
-## Update database after code update
+## Update database after core update
 - [wp core update-db](https://developer.wordpress.org/cli/commands/core/update-db/)
 > wp core update-db --network
